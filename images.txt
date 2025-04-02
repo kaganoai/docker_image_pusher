@@ -1,1 +1,1 @@
-ghcr.io/ilay1678/i-tools:latest
+mysql:8
