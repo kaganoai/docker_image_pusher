@@ -1,1 +1,1 @@
-ilay/alipan-tv-token
+rustdesk/rustdesk-server
