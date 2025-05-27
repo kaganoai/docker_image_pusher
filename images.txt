@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server
+badapple9/speedtest-x
