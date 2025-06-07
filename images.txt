@@ -1,1 +1,1 @@
-badapple9/speedtest-x
+binwiederhier/ntfy
