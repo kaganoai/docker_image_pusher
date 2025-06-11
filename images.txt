@@ -1,1 +1,1 @@
-xhofe/alist:latest
+xhofe/alist:3.39.0
