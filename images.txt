@@ -1,1 +1,1 @@
-binwiederhier/ntfy
+xhofe/alist:latest
