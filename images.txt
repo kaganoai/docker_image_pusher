@@ -1,1 +1,1 @@
-docker pull jellyfin/jellyfin:10.11.0-rc3
+jellyfin/jellyfin:10.11.0-rc3
