@@ -1,1 +1,1 @@
-itefuir/alist-strm
+vaultwarden/server:latest
