@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+dr34m/tao-sync:latest
